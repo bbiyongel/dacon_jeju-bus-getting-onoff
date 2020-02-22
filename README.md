@@ -1,4 +1,4 @@
-# 개요  
+# 제주도 퇴근시간 버스 승하차 인원 예측  
 
 ## 데이터 설명  
 **1.train, test , bus_bts 공통 사항**  
@@ -22,9 +22,6 @@
 **5.submission_sample.csv**  
 - test data의 ID와 목표변수인 18시~20시 승차 인원 존재  
 - test.csv에서 ID와 예측값을 결합하여 제출  
-
-
-## 스키마  
 
 ### train & test dataset   
 
