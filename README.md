@@ -1,5 +1,5 @@
 # 제주도 퇴근시간 버스 승하차 인원 예측  
-- url : https://dacon.io/competitions/official/229255/overview/  
+https://dacon.io/competitions/official/229255/overview/  
 
 ## 데이터 설명  
 **1.train, test , bus_bts 공통 사항**  
